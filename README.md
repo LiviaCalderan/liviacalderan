@@ -5,7 +5,7 @@
 
 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente tenho meus estudos voltados para desenvolvimento Java com SpringBoot. Estou a procura de oportunidades para mostrar e desenvolver minhas habilidades enquanto realizo projetos pessoais com o objetivo aprimorar meus conhecimentos .
 
-## 🚀 Minhas Skills
+## 🚀 Tecnologias
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=007396)
