@@ -19,5 +19,4 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-LiviaCalderan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/liviacalderan)](www.linkedin.com/in/liviacalderan)
 [![Gmail Badge](https://img.shields.io/badge/-liv.calderan.alves@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liv.calderan.alves@gmail.com)](mailto:liv.calderan.alves@gmail.com)
