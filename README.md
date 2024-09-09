@@ -1,18 +1,23 @@
 
 
-## 💜 Hi, I'm Lívia Calderan!
+# 💜 Hi, I'm Lívia Calderan!
   
 
 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente tenho meus estudos voltados para desenvolvimento Java com SpringBoot. Estou a procura de oportunidades para mostrar e desenvolver minhas habilidades enquanto realizo projetos pessoais com o objetivo aprimorar meus conhecimentos .
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+## Onde me encontrar
 
-[![LiviaCalderan](https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaCalderan&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin](https://img.shields.io/badge/-LiviaCalderan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/liviacalderan)](www.linkedin.com/in/liviacalderan)
+[![Gmail Badge](https://img.shields.io/badge/-liv.calderan.alves@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liv.calderan.alves@gmail.com)](mailto:liv.calderan.alves@gmail.com)
