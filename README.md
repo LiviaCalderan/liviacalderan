@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  - Desenvolvedora full stack com conhecimento em Java (Spring Boot) e Ruby on Rails no backend, além de experiência com HTML, CSS, JavaScript e Tailwind CSS no frontend. Atualmente, estou aprofundando meus estudos em Ruby on Rails e desenvolvimento web. Busco oportunidades para aplicar e aprimorar minhas habilidades por meio de projetos desafiadores, sempre em busca de crescimento e aprendizado contínuo.
+  - Full stack developer with knowledge in Java (Spring Boot) and Ruby on Rails for backend development, as well as experience with HTML, CSS, JavaScript, and Tailwind CSS on the frontend. I’m currently deepening my studies in Ruby on Rails and web development. I’m looking for opportunities to apply and enhance my skills through challenging projects, always aiming for growth and continuous learning.
 </p>
 
 <p align="left">
@@ -27,7 +27,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <p align="left">
-  💌 Vamos entrar em contato:
+  💌 Let's get in touch.
+
 </p>
 
 <p align="left">
