@@ -12,6 +12,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring&logoColor=007396)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=007396)
