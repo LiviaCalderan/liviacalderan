@@ -1,40 +1,53 @@
+## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
+I'm Lívia, a Full Stack Developer passionate about building scalable web applications.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+I have a strong focus on **Java and Spring Boot for backend development**, along with experience building modern interfaces using **React, JavaScript and TailwindCSS**.
 
-<p align="left"> 
-  - Full stack developer with knowledge in Java (Spring Boot) and Ruby on Rails for backend development, as well as experience with HTML, CSS, JavaScript, and Tailwind CSS on the frontend. I’m currently deepening my studies in Ruby on Rails and web development. I’m looking for opportunities to apply and enhance my skills through challenging projects, always aiming for growth and continuous learning.
-</p>
+I recently graduated in **Analysis and Systems Development** and I'm currently looking for opportunities where I can contribute, grow as a developer and work on meaningful projects.
 
-<p align="left">
-   ➡ Skills: 
-</p>
+I enjoy sharing what I learn while continuously improving my skills in **software architecture, APIs, and modern web development**.
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring&logoColor=007396)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=007396)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=RubyonRails&logoColor=007396)
+---
+
+## 🚀 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=RubyonRails)
+
+### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+### Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
 
-<p align="left">
-  💌 Let's get in touch.
+---
 
-</p>
+## 📫 Let's connect
 
-<p align="left">
-  <a href="//www.linkedin.com/in/liviacalderan/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviacalderan/" alt="LinkedIn"/></a>
-</p>
+If you'd like to talk about technology, projects, or opportunities, feel free to reach out.
+
+<a href="https://www.linkedin.com/in/liviacalderan">
+<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
